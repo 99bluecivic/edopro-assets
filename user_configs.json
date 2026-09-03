@@ -1,0 +1,31 @@
+{
+	"repos": [
+		{
+			"url": "https://github.com/99bluecivic/edopro-assets",
+			"repo_name": "Progression Tournament",
+			"repo_path": "./repositories/edopro-assets",
+			"data_path": "./data",
+			"lflist_path": "./lflist/rolling",
+			"script_path": "./data/script",
+			"pics_path": "./pics",
+			"should_update": true,
+			"should_read": true
+		},
+		{
+			"not_git_repo": true,
+			"repo_name": "Progression Tournament Full Banlists",
+			"repo_path": "./repositories/edopro-assets/lflist",
+			"lflist_path": ".",
+			"should_update": true,
+			"should_read": false
+		}
+	],
+	"urls": [
+		{
+			"url": "https://images.ygoprodeck.com/images/cards/{}.jpg",
+			"type": "pic"
+		}
+	],
+	"servers": [
+	]
+}
